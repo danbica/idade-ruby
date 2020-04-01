@@ -5,7 +5,7 @@ puts boas_vindas
 
 #Executará se o individuo for maior que 18 anos.
 idade = 19
-nome = "Lucas"
+nome = "Daniel"
 
 if idade > 18
     puts nome
